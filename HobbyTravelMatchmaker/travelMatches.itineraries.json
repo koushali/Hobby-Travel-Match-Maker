@@ -1,0 +1,195 @@
+[{
+  "_id": {
+    "$oid": "688ba1480550cd32db9087d7"
+  },
+  "itinerary_id": 401,
+  "user_id": 1,
+  "destinations": [
+    "Bali",
+    "Ubud"
+  ],
+  "activities": [
+    "Yoga retreat",
+    "Temple tour"
+  ],
+  "days": 5
+},
+{
+  "_id": {
+    "$oid": "688ba901a8d314b5a4194d6c"
+  },
+  "itinerary_id": 401,
+  "user_id": 1,
+  "destinations": [
+    "Rishikesh",
+    "Manali"
+  ],
+  "activities": [
+    "yoga retreat",
+    "trekking"
+  ],
+  "days": 7
+},
+{
+  "_id": {
+    "$oid": "688ba901a8d314b5a4194d6d"
+  },
+  "itinerary_id": 402,
+  "user_id": 2,
+  "destinations": [
+    "Bali"
+  ],
+  "activities": [
+    "yoga retreat"
+  ],
+  "days": 4
+},
+{
+  "_id": {
+    "$oid": "688ba901a8d314b5a4194d6e"
+  },
+  "itinerary_id": 403,
+  "user_id": 3,
+  "destinations": [
+    "Masai Mara"
+  ],
+  "activities": [
+    "birdwatching tour"
+  ],
+  "days": 5
+},
+{
+  "_id": {
+    "$oid": "688ba901a8d314b5a4194d6f"
+  },
+  "itinerary_id": 404,
+  "user_id": 4,
+  "destinations": [
+    "Tuscany"
+  ],
+  "activities": [
+    "cooking class"
+  ],
+  "days": 3
+},
+{
+  "_id": {
+    "$oid": "688ba901a8d314b5a4194d70"
+  },
+  "itinerary_id": 405,
+  "user_id": 5,
+  "destinations": [
+    "Ubud"
+  ],
+  "activities": [
+    "painting workshop",
+    "spa"
+  ],
+  "days": 5
+},
+{
+  "_id": {
+    "$oid": "688ba901a8d314b5a4194d71"
+  },
+  "itinerary_id": 406,
+  "user_id": 6,
+  "destinations": [
+    "Himachal"
+  ],
+  "activities": [
+    "nature walks",
+    "campfire nights"
+  ],
+  "days": 6
+},
+{
+  "_id": {
+    "$oid": "688ba901a8d314b5a4194d72"
+  },
+  "itinerary_id": 407,
+  "user_id": 7,
+  "destinations": [
+    "Paris",
+    "Kyoto"
+  ],
+  "activities": [
+    "museum visits",
+    "cultural tours"
+  ],
+  "days": 10
+},
+{
+  "_id": {
+    "$oid": "688ba901a8d314b5a4194d73"
+  },
+  "itinerary_id": 408,
+  "user_id": 8,
+  "destinations": [
+    "Goa"
+  ],
+  "activities": [
+    "cycling",
+    "beach tour"
+  ],
+  "days": 4
+},
+{
+  "_id": {
+    "$oid": "688ba901a8d314b5a4194d74"
+  },
+  "itinerary_id": 409,
+  "user_id": 9,
+  "destinations": [
+    "Bali"
+  ],
+  "activities": [
+    "surfing",
+    "yoga"
+  ],
+  "days": 6
+},
+{
+  "_id": {
+    "$oid": "688ba901a8d314b5a4194d75"
+  },
+  "itinerary_id": 410,
+  "user_id": 10,
+  "destinations": [
+    "Goa"
+  ],
+  "activities": [
+    "scuba diving",
+    "party cruise"
+  ],
+  "days": 4
+},
+{
+  "_id": {
+    "$oid": "688ba901a8d314b5a4194d76"
+  },
+  "itinerary_id": 411,
+  "user_id": 11,
+  "destinations": [
+    "Tuscany"
+  ],
+  "activities": [
+    "culinary arts"
+  ],
+  "days": 3
+},
+{
+  "_id": {
+    "$oid": "688ba901a8d314b5a4194d77"
+  },
+  "itinerary_id": 412,
+  "user_id": 12,
+  "destinations": [
+    "Himachal",
+    "Masai Mara"
+  ],
+  "activities": [
+    "birdwatching",
+    "sketching"
+  ],
+  "days": 7
+}]

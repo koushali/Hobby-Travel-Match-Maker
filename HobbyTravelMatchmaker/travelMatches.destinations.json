@@ -1,0 +1,185 @@
+[{
+  "_id": {
+    "$oid": "688ba0f60550cd32db9087ce"
+  },
+  "destination_id": 101,
+  "name": "Bali",
+  "country": "Indonesia",
+  "hobbies_supported": [
+    "yoga",
+    "surfing"
+  ],
+  "best_season": "June to September",
+  "eco_friendly": true,
+  "local_experts": [
+    "Ibu Yoga"
+  ]
+},
+{
+  "_id": {
+    "$oid": "688ba55291312311e7ce3c1b"
+  },
+  "destination_id": 101,
+  "name": "Bali",
+  "country": "Indonesia",
+  "hobbies_supported": [
+    "yoga",
+    "surfing"
+  ],
+  "best_season": "June-Sept",
+  "eco_friendly": true
+},
+{
+  "_id": {
+    "$oid": "688ba55291312311e7ce3c1c"
+  },
+  "destination_id": 102,
+  "name": "Rishikesh",
+  "country": "India",
+  "hobbies_supported": [
+    "yoga",
+    "trekking"
+  ],
+  "best_season": "March-May",
+  "eco_friendly": true
+},
+{
+  "_id": {
+    "$oid": "688ba55291312311e7ce3c1d"
+  },
+  "destination_id": 103,
+  "name": "Manali",
+  "country": "India",
+  "hobbies_supported": [
+    "skiing",
+    "hiking"
+  ],
+  "best_season": "Dec-Feb",
+  "eco_friendly": false
+},
+{
+  "_id": {
+    "$oid": "688ba55291312311e7ce3c1e"
+  },
+  "destination_id": 104,
+  "name": "Ubud",
+  "country": "Indonesia",
+  "hobbies_supported": [
+    "painting",
+    "yoga"
+  ],
+  "best_season": "June-Oct",
+  "eco_friendly": true
+},
+{
+  "_id": {
+    "$oid": "688ba55291312311e7ce3c1f"
+  },
+  "destination_id": 105,
+  "name": "Tuscany",
+  "country": "Italy",
+  "hobbies_supported": [
+    "culinary arts",
+    "wine tasting"
+  ],
+  "best_season": "April-June",
+  "eco_friendly": true
+},
+{
+  "_id": {
+    "$oid": "688ba55291312311e7ce3c20"
+  },
+  "destination_id": 106,
+  "name": "Masai Mara",
+  "country": "Kenya",
+  "hobbies_supported": [
+    "photography",
+    "birdwatching"
+  ],
+  "best_season": "July-Oct",
+  "eco_friendly": false
+},
+{
+  "_id": {
+    "$oid": "688ba55291312311e7ce3c21"
+  },
+  "destination_id": 107,
+  "name": "Kyoto",
+  "country": "Japan",
+  "hobbies_supported": [
+    "painting",
+    "history"
+  ],
+  "best_season": "March-April",
+  "eco_friendly": true
+},
+{
+  "_id": {
+    "$oid": "688ba55291312311e7ce3c22"
+  },
+  "destination_id": 108,
+  "name": "Reykjavik",
+  "country": "Iceland",
+  "hobbies_supported": [
+    "photography",
+    "hiking"
+  ],
+  "best_season": "May-Aug",
+  "eco_friendly": false
+},
+{
+  "_id": {
+    "$oid": "688ba55291312311e7ce3c23"
+  },
+  "destination_id": 109,
+  "name": "Kerala",
+  "country": "India",
+  "hobbies_supported": [
+    "backwater cruises",
+    "yoga"
+  ],
+  "best_season": "Sept-Mar",
+  "eco_friendly": true
+},
+{
+  "_id": {
+    "$oid": "688ba55291312311e7ce3c24"
+  },
+  "destination_id": 110,
+  "name": "Paris",
+  "country": "France",
+  "hobbies_supported": [
+    "art",
+    "cooking"
+  ],
+  "best_season": "April-June",
+  "eco_friendly": false
+},
+{
+  "_id": {
+    "$oid": "688ba55291312311e7ce3c25"
+  },
+  "destination_id": 111,
+  "name": "Goa",
+  "country": "India",
+  "hobbies_supported": [
+    "scuba diving",
+    "cycling"
+  ],
+  "best_season": "Nov-Feb",
+  "eco_friendly": true
+},
+{
+  "_id": {
+    "$oid": "688ba55291312311e7ce3c26"
+  },
+  "destination_id": 112,
+  "name": "Himachal",
+  "country": "India",
+  "hobbies_supported": [
+    "trekking",
+    "nature walks"
+  ],
+  "best_season": "May-July",
+  "eco_friendly": true
+}]

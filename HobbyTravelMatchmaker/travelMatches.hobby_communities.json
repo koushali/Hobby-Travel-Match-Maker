@@ -1,0 +1,227 @@
+[{
+  "_id": {
+    "$oid": "688ba1300550cd32db9087d4"
+  },
+  "community_id": 301,
+  "hobby": "photography",
+  "members": [
+    1,
+    2,
+    5
+  ],
+  "discussions": [
+    {
+      "topic": "Best wildlife lenses for Kenya",
+      "posted_by": "user_id_2"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "688ba8d2d197c170ced70c18"
+  },
+  "community_id": 301,
+  "hobby": "yoga",
+  "members": [
+    1,
+    2,
+    5,
+    11
+  ],
+  "discussions": [
+    {
+      "topic": "Best yoga mats for travel",
+      "posted_by": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "688ba8d2d197c170ced70c19"
+  },
+  "community_id": 302,
+  "hobby": "photography",
+  "members": [
+    1,
+    4,
+    10
+  ],
+  "discussions": [
+    {
+      "topic": "Wildlife vs Portrait lenses",
+      "posted_by": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "688ba8d2d197c170ced70c1a"
+  },
+  "community_id": 303,
+  "hobby": "culinary arts",
+  "members": [
+    3,
+    7,
+    11
+  ],
+  "discussions": [
+    {
+      "topic": "Italian vs French sauces",
+      "posted_by": 11
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "688ba8d2d197c170ced70c1b"
+  },
+  "community_id": 304,
+  "hobby": "painting",
+  "members": [
+    5,
+    6,
+    12
+  ],
+  "discussions": [
+    {
+      "topic": "Travel sketch kits",
+      "posted_by": 6
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "688ba8d2d197c170ced70c1c"
+  },
+  "community_id": 305,
+  "hobby": "trekking",
+  "members": [
+    1,
+    8,
+    4
+  ],
+  "discussions": [
+    {
+      "topic": "Best shoes for Himalayas",
+      "posted_by": 8
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "688ba8d2d197c170ced70c1d"
+  },
+  "community_id": 306,
+  "hobby": "birdwatching",
+  "members": [
+    3,
+    6,
+    12
+  ],
+  "discussions": [
+    {
+      "topic": "Binocular recommendations",
+      "posted_by": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "688ba8d2d197c170ced70c1e"
+  },
+  "community_id": 307,
+  "hobby": "reading",
+  "members": [
+    2,
+    7,
+    9
+  ],
+  "discussions": [
+    {
+      "topic": "Books to carry while traveling",
+      "posted_by": 9
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "688ba8d2d197c170ced70c1f"
+  },
+  "community_id": 308,
+  "hobby": "cycling",
+  "members": [
+    6,
+    8
+  ],
+  "discussions": [
+    {
+      "topic": "Long distance gear check",
+      "posted_by": 6
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "688ba8d2d197c170ced70c20"
+  },
+  "community_id": 309,
+  "hobby": "surfing",
+  "members": [
+    9
+  ],
+  "discussions": [
+    {
+      "topic": "Surf camps in India?",
+      "posted_by": 9
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "688ba8d2d197c170ced70c21"
+  },
+  "community_id": 310,
+  "hobby": "scuba diving",
+  "members": [
+    10
+  ],
+  "discussions": [
+    {
+      "topic": "Goa vs Maldives dive spots",
+      "posted_by": 10
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "688ba8d2d197c170ced70c22"
+  },
+  "community_id": 311,
+  "hobby": "history",
+  "members": [
+    7
+  ],
+  "discussions": [
+    {
+      "topic": "Best historic cities in Europe",
+      "posted_by": 7
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "688ba8d2d197c170ced70c23"
+  },
+  "community_id": 312,
+  "hobby": "nature walks",
+  "members": [
+    6,
+    12
+  ],
+  "discussions": [
+    {
+      "topic": "Botanical trails in Himachal",
+      "posted_by": 12
+    }
+  ]
+}]

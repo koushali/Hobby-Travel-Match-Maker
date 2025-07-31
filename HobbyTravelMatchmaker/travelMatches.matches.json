@@ -1,0 +1,143 @@
+[{
+  "_id": {
+    "$oid": "688ba1770550cd32db9087dd"
+  },
+  "match_id": 701,
+  "user_id": 1,
+  "matched_with": "Bali",
+  "type": "destination",
+  "match_score": 92,
+  "reason": "Yoga + Medium budget + Eco travel"
+},
+{
+  "_id": {
+    "$oid": "688ba93a97977ca0dc10d719"
+  },
+  "match_id": 701,
+  "user_id": 1,
+  "matched_with": "Rishikesh",
+  "type": "destination",
+  "match_score": 92,
+  "reason": "Yoga + Medium Budget"
+},
+{
+  "_id": {
+    "$oid": "688ba93a97977ca0dc10d71a"
+  },
+  "match_id": 702,
+  "user_id": 2,
+  "matched_with": "Bali",
+  "type": "destination",
+  "match_score": 95,
+  "reason": "Yoga + Solo"
+},
+{
+  "_id": {
+    "$oid": "688ba93a97977ca0dc10d71b"
+  },
+  "match_id": 703,
+  "user_id": 3,
+  "matched_with": "Masai Mara",
+  "type": "destination",
+  "match_score": 90,
+  "reason": "Birdwatching"
+},
+{
+  "_id": {
+    "$oid": "688ba93a97977ca0dc10d71c"
+  },
+  "match_id": 704,
+  "user_id": 4,
+  "matched_with": "Tuscany",
+  "type": "destination",
+  "match_score": 88,
+  "reason": "Culinary + Medium"
+},
+{
+  "_id": {
+    "$oid": "688ba93a97977ca0dc10d71d"
+  },
+  "match_id": 705,
+  "user_id": 5,
+  "matched_with": "Ubud",
+  "type": "destination",
+  "match_score": 91,
+  "reason": "Painting"
+},
+{
+  "_id": {
+    "$oid": "688ba93a97977ca0dc10d71e"
+  },
+  "match_id": 706,
+  "user_id": 6,
+  "matched_with": "Himachal",
+  "type": "destination",
+  "match_score": 89,
+  "reason": "Nature Walks"
+},
+{
+  "_id": {
+    "$oid": "688ba93a97977ca0dc10d71f"
+  },
+  "match_id": 707,
+  "user_id": 7,
+  "matched_with": "Kyoto",
+  "type": "destination",
+  "match_score": 86,
+  "reason": "History + Family"
+},
+{
+  "_id": {
+    "$oid": "688ba93a97977ca0dc10d720"
+  },
+  "match_id": 708,
+  "user_id": 8,
+  "matched_with": "Goa",
+  "type": "destination",
+  "match_score": 84,
+  "reason": "Cycling + Group"
+},
+{
+  "_id": {
+    "$oid": "688ba93a97977ca0dc10d721"
+  },
+  "match_id": 709,
+  "user_id": 9,
+  "matched_with": "Bali",
+  "type": "destination",
+  "match_score": 93,
+  "reason": "Surfing + Yoga"
+},
+{
+  "_id": {
+    "$oid": "688ba93a97977ca0dc10d722"
+  },
+  "match_id": 710,
+  "user_id": 10,
+  "matched_with": "Goa",
+  "type": "destination",
+  "match_score": 90,
+  "reason": "Scuba Diving + High Budget"
+},
+{
+  "_id": {
+    "$oid": "688ba93a97977ca0dc10d723"
+  },
+  "match_id": 711,
+  "user_id": 11,
+  "matched_with": "Tuscany",
+  "type": "destination",
+  "match_score": 87,
+  "reason": "Culinary"
+},
+{
+  "_id": {
+    "$oid": "688ba93a97977ca0dc10d724"
+  },
+  "match_id": 712,
+  "user_id": 12,
+  "matched_with": "Masai Mara",
+  "type": "destination",
+  "match_score": 85,
+  "reason": "Birdwatching"
+}]

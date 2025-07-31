@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "688ba18e0550cd32db9087e0"
+  },
+  "subscription_id": 801,
+  "user_id": 1,
+  "plan": "Pro-Hobbyist",
+  "active": true,
+  "renewal_date": "2025-08-01"
+},
+{
+  "_id": {
+    "$oid": "688ba98d31c7c3520ad33322"
+  },
+  "subscription_id": 801,
+  "user_id": 1,
+  "plan": "Premium",
+  "active": true,
+  "renewal_date": "2025-01-01"
+},
+{
+  "_id": {
+    "$oid": "688ba98d31c7c3520ad33323"
+  },
+  "subscription_id": 802,
+  "user_id": 2,
+  "plan": "Free",
+  "active": true,
+  "renewal_date": null
+},
+{
+  "_id": {
+    "$oid": "688ba98d31c7c3520ad33324"
+  },
+  "subscription_id": 803,
+  "user_id": 3,
+  "plan": "Pro",
+  "active": true,
+  "renewal_date": "2025-04-01"
+},
+{
+  "_id": {
+    "$oid": "688ba98d31c7c3520ad33325"
+  },
+  "subscription_id": 804,
+  "user_id": 4,
+  "plan": "Free",
+  "active": false,
+  "renewal_date": null
+},
+{
+  "_id": {
+    "$oid": "688ba98d31c7c3520ad33326"
+  },
+  "subscription_id": 805,
+  "user_id": 5,
+  "plan": "Premium",
+  "active": true,
+  "renewal_date": "2025-03-15"
+},
+{
+  "_id": {
+    "$oid": "688ba98d31c7c3520ad33327"
+  },
+  "subscription_id": 806,
+  "user_id": 6,
+  "plan": "Free",
+  "active": true,
+  "renewal_date": null
+},
+{
+  "_id": {
+    "$oid": "688ba98d31c7c3520ad33328"
+  },
+  "subscription_id": 807,
+  "user_id": 7,
+  "plan": "Pro",
+  "active": false,
+  "renewal_date": null
+},
+{
+  "_id": {
+    "$oid": "688ba98d31c7c3520ad33329"
+  },
+  "subscription_id": 808,
+  "user_id": 8,
+  "plan": "Free",
+  "active": true,
+  "renewal_date": null
+},
+{
+  "_id": {
+    "$oid": "688ba98d31c7c3520ad3332a"
+  },
+  "subscription_id": 809,
+  "user_id": 9,
+  "plan": "Premium",
+  "active": true,
+  "renewal_date": "2025-05-01"
+},
+{
+  "_id": {
+    "$oid": "688ba98d31c7c3520ad3332b"
+  },
+  "subscription_id": 810,
+  "user_id": 10,
+  "plan": "Pro",
+  "active": true,
+  "renewal_date": "2025-06-01"
+},
+{
+  "_id": {
+    "$oid": "688ba98d31c7c3520ad3332c"
+  },
+  "subscription_id": 811,
+  "user_id": 11,
+  "plan": "Premium",
+  "active": false,
+  "renewal_date": null
+},
+{
+  "_id": {
+    "$oid": "688ba98d31c7c3520ad3332d"
+  },
+  "subscription_id": 812,
+  "user_id": 12,
+  "plan": "Free",
+  "active": true,
+  "renewal_date": null
+}]

@@ -1,0 +1,179 @@
+[{
+  "_id": {
+    "$oid": "688ba15f0550cd32db9087da"
+  },
+  "badge_id": "yoga_lvl1",
+  "title": "Beginner Yogi",
+  "earned_by": [
+    1,
+    3
+  ],
+  "requirements": [
+    "Complete 1 yoga retreat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "688ba916fd4b6a168fa3ebf7"
+  },
+  "badge_id": "yoga_beginner",
+  "title": "Yoga Explorer",
+  "earned_by": [
+    1,
+    2
+  ],
+  "requirements": [
+    "Complete 1 yoga workshop"
+  ]
+},
+{
+  "_id": {
+    "$oid": "688ba916fd4b6a168fa3ebf8"
+  },
+  "badge_id": "photographer_lvl1",
+  "title": "Photo Hunter",
+  "earned_by": [
+    4,
+    10
+  ],
+  "requirements": [
+    "Attend a wildlife photo tour"
+  ]
+},
+{
+  "_id": {
+    "$oid": "688ba916fd4b6a168fa3ebf9"
+  },
+  "badge_id": "chef_lvl1",
+  "title": "Culinary Rookie",
+  "earned_by": [
+    3,
+    7
+  ],
+  "requirements": [
+    "Join 1 cooking class"
+  ]
+},
+{
+  "_id": {
+    "$oid": "688ba916fd4b6a168fa3ebfa"
+  },
+  "badge_id": "trekker_start",
+  "title": "Trail Tester",
+  "earned_by": [
+    1,
+    6
+  ],
+  "requirements": [
+    "Trek 10km"
+  ]
+},
+{
+  "_id": {
+    "$oid": "688ba916fd4b6a168fa3ebfb"
+  },
+  "badge_id": "reader_nomad",
+  "title": "Book Voyager",
+  "earned_by": [
+    2,
+    7
+  ],
+  "requirements": [
+    "Read on 3 trips"
+  ]
+},
+{
+  "_id": {
+    "$oid": "688ba916fd4b6a168fa3ebfc"
+  },
+  "badge_id": "art_lover",
+  "title": "Creative Mind",
+  "earned_by": [
+    5
+  ],
+  "requirements": [
+    "Attend a painting event"
+  ]
+},
+{
+  "_id": {
+    "$oid": "688ba916fd4b6a168fa3ebfd"
+  },
+  "badge_id": "eco_traveler",
+  "title": "Green Badge",
+  "earned_by": [
+    6,
+    9
+  ],
+  "requirements": [
+    "Complete eco-friendly activity"
+  ]
+},
+{
+  "_id": {
+    "$oid": "688ba916fd4b6a168fa3ebfe"
+  },
+  "badge_id": "surf_soul",
+  "title": "Wave Rider",
+  "earned_by": [
+    9
+  ],
+  "requirements": [
+    "Attend 1 surfing retreat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "688ba916fd4b6a168fa3ebff"
+  },
+  "badge_id": "scuba_starter",
+  "title": "Dive Beginner",
+  "earned_by": [
+    10
+  ],
+  "requirements": [
+    "Do 1 scuba session"
+  ]
+},
+{
+  "_id": {
+    "$oid": "688ba916fd4b6a168fa3ec00"
+  },
+  "badge_id": "history_hero",
+  "title": "Time Traveler",
+  "earned_by": [
+    7
+  ],
+  "requirements": [
+    "Visit 2 heritage sites"
+  ]
+},
+{
+  "_id": {
+    "$oid": "688ba916fd4b6a168fa3ec01"
+  },
+  "badge_id": "culture_geek",
+  "title": "Global Explorer",
+  "earned_by": [
+    8,
+    12
+  ],
+  "requirements": [
+    "Attend 3 cultural events"
+  ]
+},
+{
+  "_id": {
+    "$oid": "688ba916fd4b6a168fa3ec02"
+  },
+  "badge_id": "planner_pro",
+  "title": "Master Itinerary",
+  "earned_by": [
+    1,
+    2,
+    3
+  ],
+  "requirements": [
+    "Create 5 itineraries"
+  ]
+}]

@@ -1,0 +1,156 @@
+[{
+  "_id": {
+    "$oid": "688ba1150550cd32db9087d1"
+  },
+  "workshop_id": 201,
+  "title": "Sunrise Yoga Retreat",
+  "destination": "Bali",
+  "hobby": "yoga",
+  "price": 150,
+  "duration_days": 3,
+  "host": "Ibu Yoga"
+},
+{
+  "_id": {
+    "$oid": "688ba8bbe4f5bce302e7b9fa"
+  },
+  "workshop_id": 201,
+  "title": "Sunrise Yoga Retreat",
+  "destination": "Bali",
+  "hobby": "yoga",
+  "price": 150,
+  "duration_days": 3,
+  "host": "Ibu Yoga"
+},
+{
+  "_id": {
+    "$oid": "688ba8bbe4f5bce302e7b9fb"
+  },
+  "workshop_id": 202,
+  "title": "Wildlife Photo Safari",
+  "destination": "Masai Mara",
+  "hobby": "photography",
+  "price": 500,
+  "duration_days": 5,
+  "host": "LensWild"
+},
+{
+  "_id": {
+    "$oid": "688ba8bbe4f5bce302e7b9fc"
+  },
+  "workshop_id": 203,
+  "title": "Italian Cooking Class",
+  "destination": "Tuscany",
+  "hobby": "culinary arts",
+  "price": 200,
+  "duration_days": 2,
+  "host": "Chef Luca"
+},
+{
+  "_id": {
+    "$oid": "688ba8bbe4f5bce302e7b9fd"
+  },
+  "workshop_id": 204,
+  "title": "Mountain Trek Leader Bootcamp",
+  "destination": "Manali",
+  "hobby": "trekking",
+  "price": 120,
+  "duration_days": 4,
+  "host": "HikePro"
+},
+{
+  "_id": {
+    "$oid": "688ba8bbe4f5bce302e7b9fe"
+  },
+  "workshop_id": 205,
+  "title": "Heritage Watercolor Painting",
+  "destination": "Kyoto",
+  "hobby": "painting",
+  "price": 180,
+  "duration_days": 3,
+  "host": "Sensei Tanaka"
+},
+{
+  "_id": {
+    "$oid": "688ba8bbe4f5bce302e7b9ff"
+  },
+  "workshop_id": 206,
+  "title": "Cycling the Coastal Trail",
+  "destination": "Goa",
+  "hobby": "cycling",
+  "price": 80,
+  "duration_days": 2,
+  "host": "PedalIndia"
+},
+{
+  "_id": {
+    "$oid": "688ba8bbe4f5bce302e7ba00"
+  },
+  "workshop_id": 207,
+  "title": "Advanced Yoga for Peace",
+  "destination": "Rishikesh",
+  "hobby": "yoga",
+  "price": 250,
+  "duration_days": 7,
+  "host": "YogaSage"
+},
+{
+  "_id": {
+    "$oid": "688ba8bbe4f5bce302e7ba01"
+  },
+  "workshop_id": 208,
+  "title": "Backwater Nature Sketching",
+  "destination": "Kerala",
+  "hobby": "painting",
+  "price": 90,
+  "duration_days": 2,
+  "host": "SketchWell"
+},
+{
+  "_id": {
+    "$oid": "688ba8bbe4f5bce302e7ba02"
+  },
+  "workshop_id": 209,
+  "title": "Birdwatching for Beginners",
+  "destination": "Masai Mara",
+  "hobby": "birdwatching",
+  "price": 160,
+  "duration_days": 3,
+  "host": "BirdTrail"
+},
+{
+  "_id": {
+    "$oid": "688ba8bbe4f5bce302e7ba03"
+  },
+  "workshop_id": 210,
+  "title": "Evening Photography Cruise",
+  "destination": "Reykjavik",
+  "hobby": "photography",
+  "price": 220,
+  "duration_days": 2,
+  "host": "AuroraClick"
+},
+{
+  "_id": {
+    "$oid": "688ba8bbe4f5bce302e7ba04"
+  },
+  "workshop_id": 211,
+  "title": "Mindful Reading Camp",
+  "destination": "Auroville",
+  "hobby": "reading",
+  "price": 100,
+  "duration_days": 3,
+  "host": "WordNest"
+},
+{
+  "_id": {
+    "$oid": "688ba8bbe4f5bce302e7ba05"
+  },
+  "workshop_id": 212,
+  "title": "Vegan Cooking for Wellness",
+  "destination": "Ubud",
+  "hobby": "culinary arts",
+  "price": 140,
+  "duration_days": 2,
+  "host": "GreenChef"
+}]
